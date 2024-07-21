@@ -1,0 +1,13 @@
+{
+  "name": "pushover-slack",
+  "version": "1.0.0",
+  "author": "Mario <me@marioparaschiv.com> (github.com/marioparaschiv)",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "license": "Unlicensed",
+  "dependencies": {
+    "@slack/rtm-api": "^7.0.0",
+    "@slack/web-api": "^7.0.2"
+  }
+}
